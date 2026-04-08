@@ -1,0 +1,15 @@
+SMAP
+feedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 feedback.jsp
+UserZone/feedback.jsp
++ 1 UserHeader.jsp
+UserZone/../MasterPage/UserHeader.jsp
+*L
+1,20:52
+20,18:72
+1#1,27:90
+37#0,67:117
+*E

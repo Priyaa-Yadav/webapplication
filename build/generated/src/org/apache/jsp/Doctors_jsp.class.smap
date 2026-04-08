@@ -1,0 +1,18 @@
+SMAP
+Doctors_jsp.java
+JSP
+*S JSP
+*F
++ 0 Doctors.jsp
+Doctors.jsp
++ 1 GeneralHeader.jsp
+MasterPage/GeneralHeader.jsp
++ 2 GeneralFooter.jsp
+MasterPage/GeneralFooter.jsp
+*L
+1,31:50
+1#1,101:81
+31#0,153:182
+1#2,106:335
+183#0,4:440
+*E

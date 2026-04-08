@@ -1,0 +1,22 @@
+SMAP
+ViewComplain_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewComplain.jsp
+AdminZone/ViewComplain.jsp
++ 1 AdminHeader.jsp
+AdminZone/../MasterPage/AdminHeader.jsp
+*L
+1,12:51
+1#1,27:63
+12#0,15:90
+27,6:106
+32,2:112
+34,4:114,3
+38,4:126
+42:130,3
+43,3:133
+46,2:137
+47,18:139
+*E

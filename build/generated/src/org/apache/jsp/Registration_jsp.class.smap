@@ -1,0 +1,19 @@
+SMAP
+Registration_jsp.java
+JSP
+*S JSP
+*F
++ 0 Registration.jsp
+Registration.jsp
++ 1 GeneralHeader.jsp
+MasterPage/GeneralHeader.jsp
++ 2 GeneralFooter.jsp
+MasterPage/GeneralFooter.jsp
+*L
+1,31:53
+31,13:84
+1#1,101:97
+43#0,40:198
+1#2,106:238
+82#0,4:343
+*E

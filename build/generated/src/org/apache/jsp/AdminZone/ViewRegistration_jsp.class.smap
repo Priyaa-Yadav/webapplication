@@ -1,0 +1,20 @@
+SMAP
+ViewRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewRegistration.jsp
+AdminZone/ViewRegistration.jsp
++ 1 AdminHeader.jsp
+AdminZone/../MasterPage/AdminHeader.jsp
+*L
+1,13:51
+1#1,30:64
+13#0,16:94
+29,6:111
+34,3:117
+37,6:120,3
+43,5:138
+48,2:144
+49,19:146
+*E
